@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:enabled="true"
+        android:icon="@drawable/home"
+        android:title="●"/>
+    <item
+        android:id="@+id/pinFragment"
+        android:enabled="true"
+        android:icon="@drawable/pin"
+        android:title="●"/>
+    <item
+        android:id="@+id/chatFragment"
+        android:enabled="true"
+        android:icon="@drawable/chat"
+        android:title="●"/>
+    <item
+        android:id="@+id/favFragment"
+        android:enabled="true"
+        android:icon="@drawable/favorite"
+        android:title="●"/>
+    <item
+        android:id="@+id/userFragment"
+        android:enabled="true"
+        android:icon="@drawable/user"
+        android:title="●"/>
+</menu>
